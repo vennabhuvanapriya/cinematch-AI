@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { upcomingMovies } from '../data/upcoming';
+import { upcomingMovies } from '../upcoming';
 import { Calendar, Globe2, MapPin, Play, X } from 'lucide-react';
 import { motion } from 'motion/react';
 
